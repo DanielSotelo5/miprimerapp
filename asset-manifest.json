@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/miprimerapp/static/css/main.073c9b0a.css",
+    "main.js": "/miprimerapp/static/js/main.6d6b9c9d.js",
+    "static/js/787.52ff1240.chunk.js": "/miprimerapp/static/js/787.52ff1240.chunk.js",
+    "static/media/logo.svg": "/miprimerapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/miprimerapp/index.html",
+    "main.073c9b0a.css.map": "/miprimerapp/static/css/main.073c9b0a.css.map",
+    "main.6d6b9c9d.js.map": "/miprimerapp/static/js/main.6d6b9c9d.js.map",
+    "787.52ff1240.chunk.js.map": "/miprimerapp/static/js/787.52ff1240.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6d6b9c9d.js"
+  ]
+}
